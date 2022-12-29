@@ -148,7 +148,7 @@
 		"@typescript-eslint/type-annotation-spacing": "warn",
 		"keyword-spacing": "off",
 		"@typescript-eslint/keyword-spacing": "warn",
-		"linebreak-style": ["warn", "unix"],
+		"linebreak-style": ["error", "window"],
 		"no-whitespace-before-property": "warn",
 		"object-curly-newline": ["warn", { "multiline": true, "consistent": true }],
 		"object-curly-spacing": "off",
